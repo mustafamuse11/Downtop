@@ -573,3 +573,15 @@ footer {
   transform: translateY(-1px);
   box-shadow: 0 5px 15px rgba(231, 76, 60, 0.3);
 }
+
+.logo img {
+  width: 150px;
+  height: auto;
+  display: block;
+  padding: 10px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
